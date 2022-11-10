@@ -19,7 +19,6 @@ public class MainActivity extends AppCompatActivity {
     private ProgressBar progressBar;
 
     MainViewModel mainViewModel;
-    private static final String TAG = "MainActivity";
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
